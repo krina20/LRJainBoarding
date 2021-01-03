@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<ds_roomChart>
+  <StudentReg>
+    <RoomNo>1</RoomNo>
+    <Column1>2</Column1>
+  </StudentReg>
+  <StudentReg>
+    <RoomNo>2</RoomNo>
+    <Column1>3</Column1>
+  </StudentReg>
+  <StudentReg>
+    <RoomNo>3</RoomNo>
+    <Column1>3</Column1>
+  </StudentReg>
+  <StudentReg>
+    <RoomNo>6</RoomNo>
+    <Column1>2</Column1>
+  </StudentReg>
+  <StudentReg>
+    <RoomNo>7</RoomNo>
+    <Column1>1</Column1>
+  </StudentReg>
+</ds_roomChart>

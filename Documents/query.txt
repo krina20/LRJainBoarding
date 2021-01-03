@@ -1,0 +1,7 @@
+create table temp1(t1 int); 
+
+insert into temp values(2);
+
+select * from temp1;
+
+insert into temp1 select * from temp;
